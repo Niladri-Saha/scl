@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+section {
+    background-color: aliceblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#new iframe {
+    width: 80%;
+}
+
+input {
+    background: grey;
+}
+
+.mynavbar {
+    position: sticky;
+    top: 0;
+    z-index: 9999999;
+}
+
+.moviehead i {
+    float: right;
+}
+
+img {
+    height: 100%;
+}
+
+.moviehead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.alumni {
+    cursor: pointer;
+}
+
+.alumni hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
